@@ -1,0 +1,9 @@
+/* Add your custom extension styling here */
+.custom-icon.boosted {
+  color: rgba(255, 255, 255, 1);
+}
+
+.custom-icon {
+  color: rgba(255, 255, 255, 0.3);
+  icon-size: 16px;
+}
